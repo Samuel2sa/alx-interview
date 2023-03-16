@@ -1,1 +1,1 @@
-0x00. Pascal's Triangle
+0x07-rotate_2d_matrix**0x07-rotate_2d_matrix**
